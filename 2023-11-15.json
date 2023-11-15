@@ -1,0 +1,26 @@
+{
+  "name": "Juan Clayton",
+  "age": 19,
+  "address": {
+    "street": "Pueti Road",
+    "city": "Biploso",
+    "state": "WA",
+    "zip": "94736"
+  },
+  "contact": {
+    "phone": "(247) 920-4291",
+    "servicePhone": "800944687"
+  },
+  "birthday": "1987-10-23T15:33:30.524Z",
+  "ip": "26.35.224.131",
+  "foo": "bar",
+  "profile": {
+    "about": "Nalazroz ca ja ju gozrifzoh librup ni uzcartis fotnocvan giwakobi racmuk govavij. Ozimij ezuko mepucico topuruh daftegcu rocko mic umwu voug ge opdi jer fubworvu unijo anacusoz. Izi issiho se ojohohzo acu kubfa mifus gomhawow iso nasapeku meruek uwvuf ji jim ag. Sentej geanru acnefuf rasilsu sevu pejko ajabni sipub cecilit zu bavud bizha viwpon padub va. Ad sotsooje desvari bom wog kabe abnomem foiforef etukij iparonan he orotije.",
+    "bio": "Folog pipeljed hazzirci ogaili ci res luk tuzes ko geasore gewevuj ozpomud gedgaw. Ade maf sejsij no pises feziz lurul zom zunruz pu emota viadawug hami fih koik epa ene. Etzufe tapguj puz wudezuapo ci nulu jebreiw ko hor jokjop upuzikga rubi. Vuze pucjo ca tun mot nicfugjiv ugadopez iduana uwtus eku rafpuvka liwe uvo rumucma. Sip pin vuc ven bodporob epobowda nugaf jog cocunoz cim mu ajta sufvisose duor."
+  },
+  "apiKey": "658bd4d127700ec6e7cdebc898e2bcebe0eeb0c2f1c17ac08b22d3887f15bf60",
+  "currency": {
+    "code": "QAR",
+    "name": "Qatar Riyal"
+  }
+}
