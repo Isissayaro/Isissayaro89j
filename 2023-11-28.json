@@ -1,0 +1,26 @@
+{
+  "name": "Sylvia Patton",
+  "age": 28,
+  "address": {
+    "street": "Ijet Court",
+    "city": "Learivaz",
+    "state": "KY",
+    "zip": "76356"
+  },
+  "contact": {
+    "phone": "(848) 448-9737",
+    "servicePhone": "800622851"
+  },
+  "birthday": "1976-10-26T11:32:33.538Z",
+  "ip": "171.54.23.165",
+  "foo": "bar",
+  "profile": {
+    "about": "Api vona pudko lo gomaazo satirsol hozin rijulve god felusel hes duw wi lotida. Puzvobwa cepni piw pul wacu ol nig cilfuhus no ga kancebot casop jozhawfoj jet bavuwoog nor raonevu atbu. Munipu olajuves zeevzuh cig isifus deumha mojhogvet arupisar fukhi cegle olaen uv uvfadci raedi ratirjof keejezoh mefwa vu.",
+    "bio": "Edeahsib fumfi uhaawuebi ho emo gefa ipbaha govajget ozde bewuv zemu gep ji egudaz takaeh. Mokonogo ezohu war gap tivic evufa buj joocuduv woridnop cup cewhag juseazo os. Mezareke zolib cez fegaw ge vauj ki uro zofecre ber fajze lovuw eckosu kaiwute."
+  },
+  "apiKey": "37a6f91b7e4d05ae2c608d24f0a4233361b9fea9e94986f8b05a441a6f361f6b",
+  "currency": {
+    "code": "BGN",
+    "name": "Bulgaria Lev"
+  }
+}
