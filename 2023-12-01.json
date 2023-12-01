@@ -1,0 +1,26 @@
+{
+  "name": "Clayton Ellis",
+  "age": 19,
+  "address": {
+    "street": "Seavi Key",
+    "city": "Rumewale",
+    "state": "MA",
+    "zip": "37515"
+  },
+  "contact": {
+    "phone": "(262) 939-1195",
+    "servicePhone": "800281946"
+  },
+  "birthday": "2005-07-11T15:41:15.003Z",
+  "ip": "16.144.9.241",
+  "foo": "bar",
+  "profile": {
+    "about": "Lo joga suh nu cegkijhe fawahta nuslim voblatlu litfoiha ab iswir hoawu. Pobev sunoegi opso mokjucno tag tifem borezu kijomo olupe ze marpo komfo ogo jeluz luv. Zob negraz bomle rezuf jupri nufodpus kenegah tabdiwic let bun ho rojerah birpe.",
+    "bio": "Almuhla onrinpas pikajil ma kit nahilvof noikuum uzwibvih he sovos uto calamfi keve viziz fe taztodkis rufup niego. Fiwepe nomitew so ismi si su fizdum gic ni ibukuj vo ib ravome ro tuj. Uv falagmol neju zigne hiz inoz oleuv sebnuproh ozo eparupi ifco othih vuerdu ca ehepir agohi oweesmel."
+  },
+  "apiKey": "dbf53614832b4766f8ced3cec6137ec96305fecf7dca69635fcc67b3f688ae3e",
+  "currency": {
+    "code": "NZD",
+    "name": "New Zealand Dollar"
+  }
+}
