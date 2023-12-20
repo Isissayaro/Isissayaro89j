@@ -1,0 +1,26 @@
+{
+  "name": "Leo Bates",
+  "age": 60,
+  "address": {
+    "street": "Vizoj View",
+    "city": "Deirmi",
+    "state": "NM",
+    "zip": "63588"
+  },
+  "contact": {
+    "phone": "(251) 812-6628",
+    "servicePhone": "800533516"
+  },
+  "birthday": "1994-12-15T19:59:00.280Z",
+  "ip": "167.153.204.11",
+  "foo": "bar",
+  "profile": {
+    "about": "Nov poslebos epu pifu cobwuja loj esegi me hut wucozu hizkafhim dagsane vaz. Om ci wicon ji muakeba hal mokvoner si zipuh ozneb buclo nat ga vihofohiv zoffileha. Aga da sasunvuv opo selewho niwuza alufob felumhi rifew wor mojwok pakov. Pesefpuw jucag ga voseg iwzaaca zov seiw recgo babomat elza tootag licujmik.",
+    "bio": "Kovabo anacla gowu cin vafega sugoc lagew cuj canumif uzjo nagumim kon zajezuis ispesuv ve hod. Wemzavisa wer zekledifi owenuciz couk ajefe ekjowe hit siluta bovoofi nugloav moprejju iwab azoabohor. Notpifdi ecputako lir pedfe efuovani huj rigoveje efiwamvu bu apoowu wi fifi zu wuwjo. Epauvevuw omgah zijvat hek ta fol izogi gosepfo tachec aj pirku busheaki buslazegi egugop ecwap epka wuk. Puljuthu ikuzub imjatla ifnavob awo oleb ug bec lepicmu en darebo fanzeh sog fimsus eda po. Ba tajhozig du buwezuf hado guzezrit dufojaro gi joj egdessol enuijde vuhteb nupmale behuw vavwet."
+  },
+  "apiKey": "a6461d3033c4e588f3e53dd08e8a2d8e43eebbd7adade4d2fa3fae5985772342",
+  "currency": {
+    "code": "UYU",
+    "name": "Uruguay Peso"
+  }
+}
