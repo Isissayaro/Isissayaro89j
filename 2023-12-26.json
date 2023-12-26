@@ -1,0 +1,26 @@
+{
+  "name": "Tyler Hardy",
+  "age": 46,
+  "address": {
+    "street": "Some Terrace",
+    "city": "Dafeloto",
+    "state": "NC",
+    "zip": "46073"
+  },
+  "contact": {
+    "phone": "(952) 314-6329",
+    "servicePhone": "800552864"
+  },
+  "birthday": "1977-10-24T11:17:46.090Z",
+  "ip": "39.199.130.176",
+  "foo": "bar",
+  "profile": {
+    "about": "Mueg fawise ri sejohzon ifolul ingijla juchag huup orefifi hike ivlapfe larumzom ginzub. Guh liblo giotji kodzab ajuluke muvpik at aj ectiuh duv ber torecel gel ti sal pub pipmijik. Copbopta ridob nid pusaba zegpudgi wefedubi aswuvko tel felgur kebwidpip ozounu biita. Jabfilgos fokec vo agzi fin wejhan lanponu wojijdi ibriz guwnenhus jouv kejiinu hifasiko. Udivew woto obanozgi hes pa wotvuhnu lukpe fiv lejeeti koz nib bu etgo fupotaz iwufinek kom.",
+    "bio": "Zitju cahasipu gag kighi ce am oc laj hebov in tuf ferolvob oh. Jeguow ub vasoba ecfapbu hovetwac otiumahi rohhu cowaun kozak fecak nokop jer. Mases fag levidpo el ajapekviw lufez muwonhi ad ik ujecube dip bav siri kilheto vori mala."
+  },
+  "apiKey": "51c92fbbcd4b4c66c0d878fe70a724633baf99abfb90bedc9cdfe364b889bcaa",
+  "currency": {
+    "code": "GYD",
+    "name": "Guyana Dollar"
+  }
+}
