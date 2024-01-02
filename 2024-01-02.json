@@ -1,0 +1,26 @@
+{
+  "name": "Olive West",
+  "age": 30,
+  "address": {
+    "street": "Bukec Square",
+    "city": "Popiva",
+    "state": "IA",
+    "zip": "53255"
+  },
+  "contact": {
+    "phone": "(236) 841-1163",
+    "servicePhone": "800117397"
+  },
+  "birthday": "1997-05-01T06:22:10.838Z",
+  "ip": "162.123.10.48",
+  "foo": "bar",
+  "profile": {
+    "about": "Hib lac salle cikmes ucrep gez es fiv oznehu nunfo nos ci revsom huba emukav jowvovpod. Vetnisno wopowake fog mag da duafwiw guba lofafa de oradfo je kuzmewico hucgur gi. Funim nelce lutwevlor windac ro co zazzaw segve ka dok pe piufi. Gin adozo fehwah ko egi giw telifu ni vik zitzu zazuvwi tedseg wahud ci. Idi lejjopne gijuso hasgowi ojiuv jubjewsog ih micusu jibpi ih of bavujihi nucsi ra hunuev. Deikjov nifjegte oha fa somro ishotkit wakoned gu vona li pe vof lacgigra wubeahi ta goj edu ata.",
+    "bio": "Nusahula bo nup suzad rev veavoge izadieh om luvonciv volap puvrejnaw zevmica hek. Lim ovoze ho feku vadep wic forvagob wiszew ra no pure goji azusa ijazefmid wij discafac lodsehuz. Udmuwvo ohfali care ta salna ikeraki fe anjozu vi vorilze mearwen reg ipi. Wa jo ru kucrorav sokkofci pam rug eclu ufmewge ri pugmi novat gunmeako seha uruti junsadje teza napdeplu."
+  },
+  "apiKey": "5b7ad37e6f7b654c6be1be56136629369784179ab6f93e11c3d7f8994e84b090",
+  "currency": {
+    "code": "UGX",
+    "name": "Uganda Shilling"
+  }
+}
