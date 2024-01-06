@@ -1,0 +1,26 @@
+{
+  "name": "Theodore Lamb",
+  "age": 22,
+  "address": {
+    "street": "Ijmi View",
+    "city": "Nifirnet",
+    "state": "NH",
+    "zip": "50333"
+  },
+  "contact": {
+    "phone": "(700) 621-4654",
+    "servicePhone": "800862751"
+  },
+  "birthday": "1992-03-19T10:04:59.721Z",
+  "ip": "195.175.170.122",
+  "foo": "bar",
+  "profile": {
+    "about": "Girhaiko tiurro feckiksa becigte ilkubkob het so mihewfi johhi pezitufo jogu kagaon esa be ke gepgiaz. Fussaiki lisi vidgolub an ezomu botanid efzooc ha votwin lojje tufeznu ka ca alja lovedeju. Deturmiv tonolpa karo rotmed wu sezlu superaw kaljom ihu tacas ul lirocal pudro iha.",
+    "bio": "Bef rabotit bo elu kifolu iwpagem cenof aca hirluh sernini go fi ku orihuvoj. Me gajsap wuttogzin hupcuh tur ufzeli evba opiruas vu vadubej tejteh ku. Loufutip pidesil poh apga ta apca agageti bujdascaj lipe ucman cojto faudaupi. Puh pi gildemse jilavge fi ob tegna vesa ro rukdel tebihi ropsobdah jaedafus ifowedol nivihba ti ase ap. Fa vasuzule wobear zibkar jalso repdoj uwnicop jo me ger vazah koif regdi saivfo boum uh. Iri vi vul uwuboj wicritra kuk mudog romuca pipik pih be utowovar mamaka su. Emcimne ne offo wozlum sok monlauc jumu putku okhuwbez lur nibupiw hikber momor pukja mufirjo."
+  },
+  "apiKey": "dba58f67519d3a504495c19eda9eec3a70b34f8e721a20a27eff5c0df4b0d174",
+  "currency": {
+    "code": "CZK",
+    "name": "Czech Republic Koruna"
+  }
+}
