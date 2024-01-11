@@ -1,0 +1,26 @@
+{
+  "name": "Barbara Bridges",
+  "age": 31,
+  "address": {
+    "street": "Tezsab Heights",
+    "city": "Warako",
+    "state": "NJ",
+    "zip": "94728"
+  },
+  "contact": {
+    "phone": "(562) 396-4070",
+    "servicePhone": "800568342"
+  },
+  "birthday": "1959-09-16T01:44:21.061Z",
+  "ip": "12.243.79.54",
+  "foo": "bar",
+  "profile": {
+    "about": "Pambimes fiefajas agevizuv gaditzi uvepeh damot kazu rekgoraci edra uz dukes pepoheolo ko. Rat ebcetem kirwec upo vijludni rufiop ohito ruociuda govzip ketos baarco gotlad topis tulruv al vohniiv pibuljo. Cajafuko movu eciro zucgag eluso ese canusov diwigi apod cuk zena wenkeili upedej.",
+    "bio": "Wabi raczovhoz pugaj pukizde astocsef hapuf fojnogjam homzuweg eh jijsatzot lu uziunu rilki. Huvsitid zinkevcoc zapir nicopve dudo fatov amzi cazawini cunmi pupew uv lamta egne cu apame. Wubsol bo gu itmogi ugku ucafohut jidcow pa bu botulnes pehuc moferuwa ocaru."
+  },
+  "apiKey": "8fe0dcc199933861e1b2eb12885f83d11ec4eea865f6f59037ddc8b20bf242b6",
+  "currency": {
+    "code": "AMD",
+    "name": "Armenia Dram"
+  }
+}
