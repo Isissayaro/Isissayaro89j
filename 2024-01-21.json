@@ -1,0 +1,26 @@
+{
+  "name": "John Griffin",
+  "age": 50,
+  "address": {
+    "street": "Fafiru Parkway",
+    "city": "Pefijala",
+    "state": "MS",
+    "zip": "79978"
+  },
+  "contact": {
+    "phone": "(261) 593-7342",
+    "servicePhone": "800374653"
+  },
+  "birthday": "1960-08-30T19:14:14.751Z",
+  "ip": "32.24.196.99",
+  "foo": "bar",
+  "profile": {
+    "about": "Pumobijo ep da teewcik ofsujhi zobabtaf me nur bom huva riso lu. Oherufbid dic tonu locbekeb wawaf lelo ibe ihauliru tinawu fuwhitnoj ucidi owizafi pet dider souti bofce apci rebego. Acicu ezezeluv zadu tuwatba enujael ag ebju gopar fewgo ful vif mirkumdiv.",
+    "bio": "Jo fasalbev zene mikjagjof wokwon cuvuko ezuihe kej ozuumuli zaejewoz udu ojta butnan elicun ego. Ilobuahe kap ze ba otsisaw efzu etwo hagviszu cagelaw nodfewitu eco zazse teof. Aju rovu lamebfa maw iku tawa puj few kizefa inudog kizcakca uje. Mop rewisu vetgobam utotes itiiv gimintik go zegaroj jewhoki ozo zeh eppevifo co tebpa bud paz."
+  },
+  "apiKey": "de543f9d4d238d09b97d97aa64936c4aa21fa29a111d9b4de44518c7f13adf83",
+  "currency": {
+    "code": "MOP",
+    "name": "Macau Pataca"
+  }
+}
