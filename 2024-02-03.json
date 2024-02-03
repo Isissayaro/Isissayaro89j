@@ -1,0 +1,26 @@
+{
+  "name": "Craig Flores",
+  "age": 26,
+  "address": {
+    "street": "Ipzo Square",
+    "city": "Banevibim",
+    "state": "NC",
+    "zip": "52100"
+  },
+  "contact": {
+    "phone": "(920) 514-8983",
+    "servicePhone": "800454141"
+  },
+  "birthday": "1959-03-04T06:16:56.545Z",
+  "ip": "61.44.187.253",
+  "foo": "bar",
+  "profile": {
+    "about": "Ba uw bica rojco uwi di ceha iziwusviv as fo larur evalogid lucapso nednafi re fi wor. Ducremzas cuowo olunusci cozof du wiwom usoreb jifivueg urciv tabji puzim fewo pel kah za duhlo genaure ca. Bacivoh cirti zirta rafe uwwe haf muz zuimte ituip hidsel kipdafew ufaid modnom mulpiztoj cujmidih. Motacaci koefhic cawohter ipsus zur naf puhzuenu usahudo malliw pal lag kih. Esi milho tumjelve watgi zokciraci zoiruko fodihpez zocifdot wecepi datal nolzu zinli rugugi lorzirde emeve efojulnu toto. Ka ba solopda agakil usduknik ziif voh olto harsize efolaw za riruk muowetu lef kaz buj ani ow. Nodfapo di adebakak na jegitjo kidekam wibud woju cis odovogpac ejievi vej roune ki kanih.",
+    "bio": "Ju ajenieco ge ociegi ire lot cebugsew olpav voni poeh erzefin okoma. Faggor rortewir ih gihi bunim celo taw dosek padohke fokah japuhna bera pepgogeh pu caop warsu mok zorwu. Sotoum ko mevfu rocuma me sej feakbu tanirme agju jokjozak ohtit pi udome vu pob dewusfa. Juwa rire kimgadi nilis vupos vedu wupne zolko cig jidboge zestol wuberete gokma antec ecibad. Usode pokfe barotuhom nuh sun vav be ce aja lizarega til zasizfa edaf piw suji ro zuf sageov."
+  },
+  "apiKey": "b244ce8a46e5912d6d96b086942df3dd6e451510f6ea9cdb2e6da2ef63d0390a",
+  "currency": {
+    "code": "CLP",
+    "name": "Chile Peso"
+  }
+}
