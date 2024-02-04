@@ -1,0 +1,26 @@
+{
+  "name": "Carlos Hunt",
+  "age": 26,
+  "address": {
+    "street": "Pohwu Place",
+    "city": "Topmavemo",
+    "state": "PA",
+    "zip": "82263"
+  },
+  "contact": {
+    "phone": "(281) 211-7115",
+    "servicePhone": "800762614"
+  },
+  "birthday": "2006-10-18T23:49:12.770Z",
+  "ip": "27.20.183.107",
+  "foo": "bar",
+  "profile": {
+    "about": "One tedovmu pafbip irremi at rizgawgiv ro iki icu tazi alves hajir juze. Meksishi tuko zef dadomwaw sobpo iruru no deevawaf vocjoipu cud daptatoz raj va raf dendion rabnujoz. Ki hesucuw koz avaughu sod we lurmajud ete dot kan pubaeg oseseban mufuk pozejeid ko lo alocozno wizgut. Ku omi eg ujipgih wugijjuk gam ticvop jazije husojipa cobimuc cujeb ijwa se jaf mowweh ha jifomuv vamge. Delo tunamken arasifab dotcaeze momwajbog ategom teele vubhoc puhpakzo delul iv zifibi.",
+    "bio": "Weskavvi fa mic zilur log lavon liajje bifsegos cucig ki wib eklitguh pun julepew. Hiku sifupefe loc piju pomezipe fejuhtuv me tewmogla hobpieb cime ake litudad suvge. Jura guveez wihasu ziszar elwufdam pupaf sav feowa mog uwpumwew buc vuh ovocem. Rabevki zijkehog ilnajvo voftiho obiraziv kun reb duguw vu tof lire huwuwa mifsahef icjiv cekgo."
+  },
+  "apiKey": "a9c05b57583906ff90bd6523a59ab9fecac3ba4ee09e52609e6cc593b33694a2",
+  "currency": {
+    "code": "CHF",
+    "name": "Switzerland Franc"
+  }
+}
