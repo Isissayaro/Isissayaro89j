@@ -1,0 +1,26 @@
+{
+  "name": "Lillian Pope",
+  "age": 45,
+  "address": {
+    "street": "Saebo Trail",
+    "city": "Rololi",
+    "state": "KS",
+    "zip": "66133"
+  },
+  "contact": {
+    "phone": "(748) 950-2346",
+    "servicePhone": "800675439"
+  },
+  "birthday": "1987-05-03T05:59:17.826Z",
+  "ip": "124.125.78.126",
+  "foo": "bar",
+  "profile": {
+    "about": "Haj uvhi jejo makema laac hucos ugjofiz sule li gifaak rauvek lojauho dehzowi. Negbez sudlete wu febed doh vas akru teme wa egiig wad was. Ofijago pez mudwota eknor cikodo zezi fuzbaiwo jes dojmigaw pi vaw jutegdu. Pu ajomem as do aljesed wap sasiv suscif bedog duwumimu itva lovu sop tivu deliza rizitono.",
+    "bio": "Poldabev ujuhu het na cokoc nah jep mak vu kocazes ezofo tewi je zum utorol tikek gicsom. Teimewe unuso vivges on ruj geg uhikwe catakfer cop johmefefe zavafi le komme kezgoko luc. Jecsemcuw cumtomali bu puh kez if viocca laveb radecu hi jig vomfeme."
+  },
+  "apiKey": "ac71012702c501aa52242b0f4218952c075d8899a7d5ae9e9dcbe783ca18b8bf",
+  "currency": {
+    "code": "SHP",
+    "name": "Saint Helena Pound"
+  }
+}
