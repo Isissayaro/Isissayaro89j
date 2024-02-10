@@ -1,0 +1,26 @@
+{
+  "name": "Eva Fowler",
+  "age": 36,
+  "address": {
+    "street": "Lagkiz Ridge",
+    "city": "Lewikis",
+    "state": "WI",
+    "zip": "05059"
+  },
+  "contact": {
+    "phone": "(846) 697-8805",
+    "servicePhone": "800412741"
+  },
+  "birthday": "1979-10-27T04:54:55.970Z",
+  "ip": "166.36.199.220",
+  "foo": "bar",
+  "profile": {
+    "about": "Firrelec faro po hub vidajap hibjig haguk foceoga bivu tijnusew orilavu tij ku ufer juvmadvi nan. Go co hizofrab dirilhiw hemmo enuduhnez pe fecte gi uze ej lo aki gewu. Wig edekofuh diza vosudmol liw zo del hebzom lasdowhu vus nede ki vewup. Rev urikiv buok mipezna kuawepic gevjuhset zu civzas mogipi job da hugvewrig numsaben obikiz fasirjet. Nowhal elenakih zoh fesa zahde eperu fiig roh zuhde go daise wo kodi. Dise tahur tosa bik gosel avjesaf meboku edepsaf domed vedidaf uruemem vejesdi gaev.",
+    "bio": "Ifugibu nuw ganafa lo daweiv begci jowatlil popgivar sav an nembissog gukizsoz ja ulovod. Doffibuj oma efomaiw fad azo ethusor labdimni pocomse wueza ca uwnecjec tim gihmojwej howooja ep lugigwa mej mefzaape. Zurcoved lepmiewu ebinzab iza kimcu cusalipo duacagab ma matvob irme jiscijaj dil izituk wehap ceuna camagji."
+  },
+  "apiKey": "8636f0be9f7f778c3755d9b17c5328810a4735ccf3e784ef4e6468ad3352dcf3",
+  "currency": {
+    "code": "TND",
+    "name": "Tunisia Dinar"
+  }
+}
