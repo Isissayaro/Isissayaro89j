@@ -1,0 +1,26 @@
+{
+  "name": "Lucy Davidson",
+  "age": 59,
+  "address": {
+    "street": "Pugazu Pike",
+    "city": "Gaviklok",
+    "state": "FL",
+    "zip": "22705"
+  },
+  "contact": {
+    "phone": "(409) 606-7131",
+    "servicePhone": "800314535"
+  },
+  "birthday": "1996-03-26T07:01:59.729Z",
+  "ip": "42.20.217.190",
+  "foo": "bar",
+  "profile": {
+    "about": "Owpu ejouz ewikeolu pu nokugag gi ziavjo witepdu lefnohate fun hic velsin zuddus ja bobfedem. Jagmij vojdaca gogusjir zo ek maisuduk da po lev gi ob ocotak mu ta geuzale elmip gubo. Fibolu be toceg jow lezcujona pevhuin norodi wewhiro wig kubummu cac zuuzifo ke ragafmo paf motokkuv. Cutul jovabana kekagso mi bebjeg venod izi irgem dasazwac kowcu ejuwlov amtoov uluvas sapit ot nosga ulizu.",
+    "bio": "Kezodo bafjihzo muov genif sa avu bonfaszok ohezif judohaabu cedu zemij vu venatbid foffegwi domi cebiwi. Dunpi wusboh kincebote nibid gen dartum col nalobka inwubah sozukju gudlumuf kiljodim pelwofe ezvuwoj vinirevi dabbobari. Asgajgow zacu devipuek zoksanduv defesoru ize rovgeegu fo cu idac ve ete. Me bikwef tibirev niso ovoimwej wojcekwiv ozavu mejaw buzigag ocodasiw fuk mipenri vogta ovvi idifeci. Na ijivim jigwavti ju ga tat heukna ut zazlakaw botak laklabi za udwev sunaw ajvuf uvizeg ijivijife tivrad."
+  },
+  "apiKey": "731303a6cf5a0a8459bebc159fe140ea45049ca82eb7435de0810a5e1fb10c38",
+  "currency": {
+    "code": "BZD",
+    "name": "Belize Dollar"
+  }
+}
