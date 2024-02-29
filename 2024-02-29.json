@@ -1,0 +1,26 @@
+{
+  "name": "Jackson Lyons",
+  "age": 58,
+  "address": {
+    "street": "Lecid Square",
+    "city": "Soarbo",
+    "state": "NY",
+    "zip": "05930"
+  },
+  "contact": {
+    "phone": "(445) 677-5214",
+    "servicePhone": "800214753"
+  },
+  "birthday": "1979-01-10T11:13:51.837Z",
+  "ip": "4.187.177.220",
+  "foo": "bar",
+  "profile": {
+    "about": "Waivi weowu zuclof ha ikwo sojalpej olece soz kikvem ba horuc azeir pu. Ir upwitki piipame cuzsumuz cegavzi un ve wul zew mu pakibris feguko. Pe mur ajsu kut walaj kufjad wercoal burgojo zoh fihterba durnuca nampukop. Kir gad dujneeb fosezcak nitu izo nawgu pone pu or po dacsuw loihro vukamu. Izujipmi gu vuufuhop ricumvez dukegro wakmeuj wo as joifo zoh gaefinu wamum nifuz cok wadhakjo umopin ohevubro cuho. Vilom ma ke zoklaslaz ri polgel sinuh etu ca carbuf desisemeg vaava guh gabsis zudmiz. Nohacjol da tomba fivken roturag humbe cowho dataj ri op titsuwav zunofi vic tadel rasrusa zezi sam siufifuf.",
+    "bio": "Polda fugimic laneblip buwma pebruod vuvus use fuj mak kejimeod sabpup gusolsud zu meevpa nizel janga zuvorpo ig. Puakasu gimrig tubmurar zoca zagi lagmakfo je vi loawogud uzomurkov dik bif akiaza fal. Huhves geh cape uleli hep habkacacu bi hi ja wuk gain ko mulopi ez. Arvibo wohju zipbot luje gocar jeolse orifi riwehul arocu fa li mu."
+  },
+  "apiKey": "7e47abd239d8167b8dc1be13e2d03c3f3f5ed6487b2b37ff8c0b012c401655ff",
+  "currency": {
+    "code": "EGP",
+    "name": "Egypt Pound"
+  }
+}
