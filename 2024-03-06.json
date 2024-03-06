@@ -1,0 +1,26 @@
+{
+  "name": "David Collins",
+  "age": 55,
+  "address": {
+    "street": "Buos Point",
+    "city": "Ilrapa",
+    "state": "IN",
+    "zip": "98251"
+  },
+  "contact": {
+    "phone": "(941) 469-3032",
+    "servicePhone": "800362835"
+  },
+  "birthday": "1991-12-12T06:42:37.807Z",
+  "ip": "211.163.157.145",
+  "foo": "bar",
+  "profile": {
+    "about": "Unfele fezaspo vanpu nawuw fopgo besoruf po cuuv afi zanos doelihu ki nidjoc mekisezu pebigug. Nusimvow kepfa gu cog ufa kib zutga epemiziza sazeafe lug bil pebgeruk kihsit deh ajbahbur. Somak talda mirisubo govwuag eg ho ewbul le hokif vafkane ki ut ubjo lak tub zojal sawumi.",
+    "bio": "Vim at nofe ovi katjihu nacaume udeej on ogbuf guc tukki hopmo vu rowadli awibeir up okijepnac. Sawin udnof cobre na uca mop bomkuv rafja ze viduhu fefcogew nih ej minet. Gan wiliz pojpi pu ani monivseh ejal li mulujfi nuzbiwjal vipcafut la fizer cez vanpa. Azlumab ibulapbu nu birek wuwfa rov ew nulwujini napiklap ajvino zen rinego sihefpo ijsevu asi wa."
+  },
+  "apiKey": "a9e01c1d302a6219657481a2582732eeb5b051256305a373a1d34bfd0e24df15",
+  "currency": {
+    "code": "PGK",
+    "name": "Papua New Guinea Kina"
+  }
+}
