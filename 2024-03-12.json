@@ -1,0 +1,26 @@
+{
+  "name": "Kevin Warren",
+  "age": 35,
+  "address": {
+    "street": "Wivad Square",
+    "city": "Kozimemud",
+    "state": "CA",
+    "zip": "35624"
+  },
+  "contact": {
+    "phone": "(336) 875-4149",
+    "servicePhone": "800954576"
+  },
+  "birthday": "1971-12-03T15:28:35.438Z",
+  "ip": "115.123.108.99",
+  "foo": "bar",
+  "profile": {
+    "about": "Pek bege ep iz elurecad ca civa enfuide za ig ki pa. Ivuliepa baja ilpofibo jobi zafati vewu ti azu etojpe wace kanfafle umaha urwij abzumi ropeher daz vavdi inurotju. Umeiweev duf pouj legudcum zep jap zehehna kif ulezapep fu zeh leftapac gufomo bahem. Kuren al lihis kokzegku ni haprefu iholo mope jedu tuv nawrecci fobvid voab.",
+    "bio": "Pu cuf wed faf im ru fahzudhon zoma abbi isci dakapwi vacav meludot nivhuge evutejgu caloltu uduhom. Ovherula ibatid ahdel jammivda louzace coahe uga masor igduska ipe did cow rackiom. Gudome detbo guowfuj ni kadtimgac mi rodteji rahoh cesmakje alzun hugco zuunemoc ohavuvape. Hoeteodo gibkup nur om esuva esifivba orjifos reh mo kori gaevhag rinub vi siile. Co ha fo sipakatu ap gurak zofot fokomle bifere obinevjul wud mi tiwenne olavabti lufzul lidzupuv ziti rovwasik. Juvne izca naju zinov izapuhuw odurunej weowi viz irawapa lolura ropdab cuak voibega ucenen dula."
+  },
+  "apiKey": "e50fe658e9b900a0f2f98aca78c5f735dfedb8ee9eac4da5e360e148a8dc5e3c",
+  "currency": {
+    "code": "OMR",
+    "name": "Oman Rial"
+  }
+}
