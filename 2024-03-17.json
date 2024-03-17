@@ -1,0 +1,26 @@
+{
+  "name": "Fanny Greene",
+  "age": 52,
+  "address": {
+    "street": "Irpoc Place",
+    "city": "Rismidwoj",
+    "state": "VA",
+    "zip": "53317"
+  },
+  "contact": {
+    "phone": "(533) 302-7852",
+    "servicePhone": "800383827"
+  },
+  "birthday": "1992-11-16T23:42:54.676Z",
+  "ip": "102.183.225.167",
+  "foo": "bar",
+  "profile": {
+    "about": "Eto dauko ocasasag tauta hitej uvrofjil nucen tohweov bahun fiinehet mor puf. Asug oteoskib nicuw wucti ge babajhe jo tujdu bicke iwmupu omiano nawi ulu heliwub va. Ih saj momiwo kukgij wohkushoh fo bu boge jim dec vu cuvmimaf rotpol rigtovig. Bunazo ka gaejo ojufuve ju rid bivtenlo ozoditop tu morco zidudec rusbiberi ice hacel.",
+    "bio": "Kegim tewru zag ube ar weuki wawte ikagewe bifhomep wavih uki hoj pug eze do taopodim avo worikso. Cow mohho ta tizojki eciehimum ji nohwi powhep hoflujvu beode hinuos sukowku. Ij ekoto guwtaka vun hifca peli wormegal feldi jebatdu bas pusraiwu wisuise gomuot ulek juapri ki gisman furufpe."
+  },
+  "apiKey": "2cd55dfef963c1e2fa07af1d7eace3b3f71dcfb4d645027ca887e0c06fd5fbbc",
+  "currency": {
+    "code": "CDF",
+    "name": "Congo/Kinshasa Franc"
+  }
+}
