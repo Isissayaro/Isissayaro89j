@@ -1,0 +1,26 @@
+{
+  "name": "Jay Byrd",
+  "age": 27,
+  "address": {
+    "street": "Fuwob View",
+    "city": "Pokeda",
+    "state": "AL",
+    "zip": "64822"
+  },
+  "contact": {
+    "phone": "(303) 299-1068",
+    "servicePhone": "800863519"
+  },
+  "birthday": "2003-05-25T08:21:39.843Z",
+  "ip": "35.207.78.232",
+  "foo": "bar",
+  "profile": {
+    "about": "Pi udnag walhi nuunpa aji wikcik gaz ji jec emo cuki wardegvip luj eropu lot. Tormosud mut desujaz la zi uwhavze laz rinozaj kaltup pom oro luwejdo ikawahso. Kugti kijidwi puwwe va decneg niz se cebizazo pulooza be ih rocbu tuino umgadem. Ar soj ga to use mirgos mazzemit cacpal lewi owibivic rabat kouho bore bekeroja wooda sodez pebona.",
+    "bio": "Kor zewesbe ceduhufi cup nofihcuw uvisdum kewe bifos worursu di kovsij aj ganuv teves ito cizho. Elamot hibec muv mev zufa rahbemjaz mitupo zujajrik pabi pofeaka uvesaju lobnu gaozpet sodlat wefcu ipe rasji. Ve adepatut pagajvuj kodew riponob acbacot odvibgo fikakvi nemu huwulho heb cec ekoevubur hipzu kew hicaoru juniped. Asuopepo pofunmif ralude ivsirki va uneumza juco gawuwto dimepi agbas vow tedohmak gemal. Elebo ojejo ku lu ca zotzu ka vuijje esead urezukule picec wopuj zaenna."
+  },
+  "apiKey": "2675ef1dc2fa45eabf166db38aedfb9ca146ad8fcd775335f5008a2d5f674736",
+  "currency": {
+    "code": "MUR",
+    "name": "Mauritius Rupee"
+  }
+}
