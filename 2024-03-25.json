@@ -1,0 +1,26 @@
+{
+  "name": "Sam Holmes",
+  "age": 64,
+  "address": {
+    "street": "Soag Turnpike",
+    "city": "Sohusobi",
+    "state": "PA",
+    "zip": "36845"
+  },
+  "contact": {
+    "phone": "(509) 569-2552",
+    "servicePhone": "800655219"
+  },
+  "birthday": "1967-06-05T08:43:29.278Z",
+  "ip": "198.85.35.27",
+  "foo": "bar",
+  "profile": {
+    "about": "Pac hohiskas bo pisnok kejsuha zifomgu jiwgewem gi conu ceruw jarirrod gefifov menojju fum roki tin hitgeppes afka. Bavos wejudaam wu latdeg sef daihu zojupsed unupar puf midpaj dewef kilalsol ri sesnorih. Pore feva neh ori senus dedbo ezo leb pupemcol neuwu wewoh bobbesbew okefegjuf tusimud nalerco zeefira ho epibu. Hiebe kurovo sale tufkum lawwo gip mez fela ponu hodpiv ho ica roh di.",
+    "bio": "Wopnum doku ibi vozeruk le pe zu hohnun koal labsowset ikfupde serikwe datuj monjo mojafo roanor mafes hawet. Vuiju gu kuto urepa kagam mah patika uheon jolpo gufbi higamo um oje. Nus inenafef idku vopep vo awafouvu luti muwbujo aheta wugpuel nekup anrooz moh."
+  },
+  "apiKey": "dc2e6b5464efb84b839de51b0f8ddc1b07e9c485ff44f38379e77618bd056287",
+  "currency": {
+    "code": "BZD",
+    "name": "Belize Dollar"
+  }
+}
