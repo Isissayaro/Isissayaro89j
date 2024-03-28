@@ -1,0 +1,26 @@
+{
+  "name": "James Welch",
+  "age": 42,
+  "address": {
+    "street": "Fefgos Point",
+    "city": "Vehgenaz",
+    "state": "WA",
+    "zip": "69988"
+  },
+  "contact": {
+    "phone": "(319) 371-2596",
+    "servicePhone": "800763881"
+  },
+  "birthday": "1977-03-21T21:26:16.543Z",
+  "ip": "149.205.241.253",
+  "foo": "bar",
+  "profile": {
+    "about": "Idzurha nerevha zomahu cuh howlal rofcimko makup vehuge ukisa jom voikmo zu si adoowed kuwlog etwe gajhuva nucme. Nupka lo nunov diaz pop wuorojet de giovi comrujfi wa wat za huban ala pugin. Tatcira gebjedaj huhaf hegboj bel buglan bimdi rir uhozicar epiid fi cugviga lokze desjid seondev. Kolob werwe kabek ije pes una ijurecda tu poub wakah addu inmewe cu. Raireeb renojepo wuejdif lo nus ce giblalhuc mif rov iwoultic efautjep rovlehpo la sopeh gak geluer.",
+    "bio": "Daewiwog nuzguzzih oltir noghurib gohozuza ca zalgacwa siawtir dotlo ravi izobwo wuc billac nazpa fopipe ilenek foibe. Suwerwe obehoaw li ijfafod ewoboc ro pemerar ma bowu kiwa ca zocufu cowit im ve. Sijbo dagwubzek ogcubwe jarka loh mugoj ni mawrushum bieti ceocu bu unakekur. Ovi ta tuju ni oltined kusid bir ra puwomu ajamu fi dopurfu itofarze gioceba coapnim. Rofugiira no pucu pezof obne dol zucanre wacova gekura he eda kajoven kursebzi racvahi."
+  },
+  "apiKey": "91846ef99ee073570a8ab1673dad5a3170c388e322090ae267ce6176fa3a5279",
+  "currency": {
+    "code": "NIO",
+    "name": "Nicaragua Cordoba"
+  }
+}
