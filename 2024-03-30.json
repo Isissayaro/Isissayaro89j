@@ -1,0 +1,26 @@
+{
+  "name": "Amanda Haynes",
+  "age": 65,
+  "address": {
+    "street": "Wiko Street",
+    "city": "Haaketi",
+    "state": "AR",
+    "zip": "69580"
+  },
+  "contact": {
+    "phone": "(221) 656-2323",
+    "servicePhone": "800728978"
+  },
+  "birthday": "1959-08-12T03:01:43.056Z",
+  "ip": "253.45.163.86",
+  "foo": "bar",
+  "profile": {
+    "about": "Po roskiwo pozir lizon galte uv sutvez mo odote av peeho ojoicpep pulcezrim deagu tapu. Imzuh bukatren uc agvon imo dazkoul pokri esvec il cakfiuvi hepfa ba ufoaw nirzun abori. Jotuh kif adi riwrazaj obuuviej fukpapur fun vo wi de cec ti go ju rajto et acwul vamgap. Zuadval jal du tejbukec tiwwab ohahuclu lo juzro majkomum ti fejato ofmuguv wubojoh gucannof papmus livkarif.",
+    "bio": "Duzbebcig vim odsok luzi macoh wiro wafduenu ewtuf badji teho cioca fit vifugujeg ked tucowhi colijo tiuvko. Gi homja nu ciwgidcuc ur ej uwozo judek cucic ufmutnoj cifa ibe. Vip zuvieco goj mato war savaod ge semilce fu zepujad bumumame lahous iji ojrurmo dopfowiv anulu ufpaleg cec."
+  },
+  "apiKey": "f30ea4f37d30c91f6770107eedd239537de67c1678a1e00d5eef4f299bbc7fb2",
+  "currency": {
+    "code": "PEN",
+    "name": "Peru Nuevo Sol"
+  }
+}
