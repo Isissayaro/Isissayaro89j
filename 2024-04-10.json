@@ -1,0 +1,26 @@
+{
+  "name": "David Potter",
+  "age": 39,
+  "address": {
+    "street": "Enagu Key",
+    "city": "Gubasjak",
+    "state": "NC",
+    "zip": "17331"
+  },
+  "contact": {
+    "phone": "(943) 676-9340",
+    "servicePhone": "800551265"
+  },
+  "birthday": "1967-08-15T20:09:32.443Z",
+  "ip": "46.188.177.163",
+  "foo": "bar",
+  "profile": {
+    "about": "Hitjul gumfolo pif vamufagom wivtehtec masus me ad jus jejimgoc ku uc. Enu ma lavloho jigvowus ci huwuw zug poube laf fe seic moh bisat dohkagfek. Pu pingici vib ru kabpi ofkik jilu tu so niw bocesir tohli laksagse nammiep.",
+    "bio": "Irucafwa oj perceto ocdi me oce okvaloko ul hobelak ij lo of buwovgo sal. Kemwac pe nizcivuz hihcah sija sojvir digi renhucso fuola vene nohafaw zeikgem uvuedi. Migu kadha paruwjuw se ubno fitme iddi turasno concocu dedozlij kevlav vew jotucu lenev pen cozsepuk hifrin uw. Tokabec keh ha vus red egemamuzu faadica lizco aza su javrursuj od cezlaehe eti soge pisitu ol. Ufsoog rotmus udeddag kazal povug tecidu cesgu fouwhoj bim maise do toluco ize tivpoc."
+  },
+  "apiKey": "2d435699bae4d5b398e284174266af9ccc0b49cfcccdf785d25ce8f92519b767",
+  "currency": {
+    "code": "BBD",
+    "name": "Barbados Dollar"
+  }
+}
